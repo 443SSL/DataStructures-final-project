@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/proj4.dir/Driver.cpp.o CMakeFiles/proj4.dir/Heap.cpp.o CMakeFiles/proj4.dir/PinHit.cpp.o CMakeFiles/proj4.dir/MinHeap.cpp.o CMakeFiles/proj4.dir/MaxHeap.cpp.o  -o proj4.exe -Wl,--out-implib,libproj4.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
