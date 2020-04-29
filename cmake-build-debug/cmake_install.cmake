@@ -1,8 +1,8 @@
-# Install script for directory: /cygdrive/e/School/College/SEM4/CSCE221/projects/proj4
+# Install script for directory: E:/School/College/SEM4/CSCE221/projects/Proj4-98
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "/usr/local")
+  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/Proj4_98")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/cygdrive/e/School/College/SEM4/CSCE221/projects/proj4/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "E:/School/College/SEM4/CSCE221/projects/Proj4-98/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

@@ -1,3 +1,3 @@
-/cygdrive/e/School/College/SEM4/CSCE221/projects/proj4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/cygdrive/e/School/College/SEM4/CSCE221/projects/proj4/cmake-build-debug/CMakeFiles/proj4.dir
-/cygdrive/e/School/College/SEM4/CSCE221/projects/proj4/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/School/College/SEM4/CSCE221/projects/Proj4-98/cmake-build-debug/CMakeFiles/Proj4_98.dir
+E:/School/College/SEM4/CSCE221/projects/Proj4-98/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/School/College/SEM4/CSCE221/projects/Proj4-98/cmake-build-debug/CMakeFiles/rebuild_cache.dir

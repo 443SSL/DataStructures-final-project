@@ -15,7 +15,8 @@ class PinHit {
 
 	private:
 
-		int m_pin, m_hits;
+		int m_pin;
+		int m_hits;
 };
 
 #endif /* PinHit_H_ */
